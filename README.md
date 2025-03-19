@@ -2,7 +2,7 @@
 
 At Norque, we believe that true innovation lies at the intersection of advanced technology and uncompromised security. That’s why we’ve combined Timelock and Gnosis Safe (Multi-signature) contract features with the Norque Smart Contract to create a robust framework that redefines security standards in the blockchain realm. This unique combination isn’t just a step forward; it’s a monumental leap.
 
-A Closer Look at the Timelock and Multi-Signature (Multisig) Combination
+## A Closer Look at the Timelock and Multi-Signature (Multisig) Combination.
 
 **Timelock Feature: Security Through Strategic Delay**
 
