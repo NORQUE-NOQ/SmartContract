@@ -30,14 +30,21 @@ This structure eliminates single points of failure, bolsters decentralization, a
 
 Norque’s multisig wallet isn’t just another feature; it’s a philosophy. It’s about fostering security through collaboration, decentralization, and fail-safes. By centralizing token storage in a multisig-only address, Norque takes a forward-thinking approach that defines excellence in blockchain security.
 
-**Why This Combination is a Game-Changer**
+---
+
+## Why This Combination is a Game-Changer
 
 **The Norque Smart Contract’s Timelock and Gnosis Safe Multisig system push the envelope of what’s possible in blockchain security. Together, they provide an unrivaled level of protection, transparency, and trust. Key factors that elevate this combination include:**
 
 •	Prevention of Impulsive Decisions: With Timelock, all sensitive operations are delayed long enough for review and intervention.
+
 •	Mitigation of Human Errors & Hacks: The multisig system ensures no single entity can act alone, reducing risks of accidental or intentional misuse.
+
 •	Decentralized Token Storage: The multisig wallet design eliminates dependency on individual key holders while maintaining decentralization principles.
+
 •	Enhanced Stakeholder Confidence: Users and investors can place their trust in a system that prioritizes safety and eliminates single points of failure.
+
+---
 
 **Setting a New Standard in Blockchain**
 
@@ -45,6 +52,8 @@ At Norque, we’re not just building another blockchain project. We’re creatin
 This combination of advanced features isn’t theoretical. It’s operational. It’s practical. And it’s ready to be a game-changer. Join us as we redefine what’s possible in blockchain security.
 
 **The future is here, and it’s secure with Norque.**
+
+---
 
 ## 🔹 Overview
 Norque (NOQ) TimeLock is a **secure, multi-signature timelock contract** built on top of **Gnosis Safe Proxy**. It enables **delayed transactions**, ensuring **governance security** and **controlled fund management**.
